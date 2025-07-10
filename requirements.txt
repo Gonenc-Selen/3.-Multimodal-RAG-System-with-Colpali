@@ -1,0 +1,10 @@
+PyMuPDF
+colpali
+milvus-client
+numpy
+Pillow
+torch
+gradio
+sentence-transformers
+transformers
+google-generativeai
